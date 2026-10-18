@@ -1,7 +1,7 @@
 # smart-infrastructure-operations
 
 ## About
-Learnig project: Python-based infrastructure monitoring and automation dashboard
+Learning project: Python-based infrastructure monitoring and automation dashboard
 
 ## Current features
 - Python-based server health checks
@@ -18,7 +18,7 @@ Learnig project: Python-based infrastructure monitoring and automation dashboard
 - Cloud monitoring and deployment
 
 ## Purpose
-To build practical skills in Python, cloud infrastructnre, and IT operations automation through incremental project development
+To build practical skills in Python, cloud infrastructure, and IT operations automation through incremental project development
 
 ## Data Notice
 This project uses practice code and synthetic data only.
